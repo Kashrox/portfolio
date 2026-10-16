@@ -1,5 +1,4 @@
 # Data Scientist
-## Portfolio
   title: "My Portfolio"
   subtitle: "Data Science, Analytics and Machine Learning"
 
